@@ -1,0 +1,25 @@
+Course: DBMS with MySql
+
+Introduction 
+Characteristic of database 
+Advantages of the database 
+Relational model constraints
+
+SQL: 
+Data types 
+Change statements in SQL 
+Basic Queries in SQL 
+Insert,update and delete queries
+Views and complex queries
+
+ER model: Entity type ,Entity set ,Attribute ,Relationship type
+Converting Relational model to ER modle
+Converting ER model to Relational model
+
+Normal forms
+1NF to BC NF
+
+Transaction
+ACID properties of Transaction
+Characterizing schedules based on recoverability and serializability
+An overview of NoSQL
